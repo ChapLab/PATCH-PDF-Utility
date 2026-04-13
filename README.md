@@ -21,8 +21,6 @@ The utility supports:
 
 ## Repository structure
 
-A recommended repository layout is:
-
 ```text
 PDF-Patch-Utility/
 ├── README.md
