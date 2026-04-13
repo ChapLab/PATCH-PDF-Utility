@@ -33,10 +33,10 @@ PDF-Patch-Utility/
 │   └── patch_logo.png
 ├── example_data/
 │   ├── TiO2/
-│   │   ├── screening_100x0p1s.*
-│   │   ├── saturated_2x5s.*
+│   │   ├── TiO2(0.1s×100frames).qchi*
+│   │   ├── TiO2(5s×2frames).qchi*
 │   └── MOF-808/
-│       ├── screening_100x0p1s.*
-│       ├── saturated_2x5s.*
+│       ├── MOF808(0.1s×100frames).qchi*
+│       ├── MOF808(5s×2frames).qchi*
 └── figures/
     └── gui_screenshot.png
