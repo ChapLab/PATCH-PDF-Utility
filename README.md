@@ -6,9 +6,7 @@ This repository accompanies the manuscript *Exposure strategies for higher quali
 
 ![PATCH PDF Utility GUI](figures/gui_screenshot.png)
 
-## Keywords
-
-PDF analysis, pair distribution function, X-ray total scattering, total scattering, synchrotron scattering, saturated detector peaks, detector saturation correction, overexposed diffraction data, diffraction data repair, high-Q statistics, Bragg peak saturation, data healing, intensity patching, peak-tip restoration, IRLS scaling, robust scaling, Huber weighting, attenuated scaling, powder diffraction, qchi, chi, iq, gr, scientific Python, Tkinter GUI, Matplotlib, NumPy, Chapman Lab, PATCH PDF Utility.
+> Keywords: `PDF`, `pair distribution function`, `X-ray total scattering`, `total scattering`, `synchrotron scattering`, `detector saturation`, `saturated detector peaks`, `saturation correction`, `overexposed diffraction data`, `diffraction data repair`, `high-Q statistics`, `Bragg peak saturation`, `data healing`, `intensity patching`, `peak-tip restoration`, `IRLS scaling`, `robust scaling`, `Huber weighting`, `attenuated scaling`, `powder diffraction`, `qchi`, `chi`, `iq`, `gr`, `scientific Python`, `Tkinter GUI`, `Matplotlib`, `NumPy`, `Chapman Lab`, `PATCH PDF Utility`
 
 ## What It Does
 
